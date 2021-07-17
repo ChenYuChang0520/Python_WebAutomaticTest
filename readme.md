@@ -14,7 +14,7 @@ pip3 install requests
 
 2. cd至解壓縮的資料夾
 ```
-EX: cd ./Desktop/webtest
+EX: cd ./Desktop/Python_WebAutomaticTest
 ```
 3. 執行程式
 ```
